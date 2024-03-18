@@ -1,4 +1,3 @@
-# Library.java
 # Library Management System (Library-Mgmt-Sys)
 
 This GitHub repository hosts a feature-rich Library Management Software designed to streamline administrative tasks and empower librarians in efficiently managing books. The software facilitates the addition, viewing, and deletion of librarian profiles, along with robust tools for book management, issuance, and returns.
